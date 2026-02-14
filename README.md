@@ -39,6 +39,7 @@ Promote community knowledge sharing
 Improve employability through peer learning
 
 **Core Features**
+
 _Skill Barter System_
 
 Users exchange skills instead of money.
@@ -63,7 +64,7 @@ AI validates user expertise to ensure credibility.
 
 Structured and guided learning progression.
 
-_ Community-Driven Growth__
+_Community-Driven Growth_
 
 Encourages local collaboration and knowledge sharing.
 
